@@ -1,0 +1,22 @@
+# Engagement artifacts are private and belong outside this repository.
+engagements/
+loot/
+evidence/
+reports/
+*.apk
+*.aab
+*.apks
+*.xapk
+*.jks
+*.keystore
+*.pcap
+*.pcapng
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+dist/
+.DS_Store
+Thumbs.db
