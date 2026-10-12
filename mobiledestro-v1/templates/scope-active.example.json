@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "authorization": {"status": "pending", "reference": ""},
+  "active_allowlist": {
+    "packages": [],
+    "origins": []
+  }
+}
